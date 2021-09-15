@@ -1,5 +1,5 @@
 ---
-title: myphoto
+title: 兰亭序
 date: 2021-09-13 11:25:51
 tags:
 image: './image/flower.jpg'
