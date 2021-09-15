@@ -2,7 +2,7 @@
 title: git的常用命令
 date: 2021-09-15 08:46:31
 tags:
-image: './image/git.png'
+image: './image/flower.jpg'
 ---
 
 # 常用 Git 命令清单

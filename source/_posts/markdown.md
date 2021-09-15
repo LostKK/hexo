@@ -2,7 +2,7 @@
 title: markdown的常用语法
 date: 2021-09-15 08:49:04
 tags:
-image: './image/markdown.png'
+image: './image/dome.jpg'
 ---
 
 Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。
